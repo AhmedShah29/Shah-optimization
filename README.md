@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.21+-0078d4?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Version" />
-  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-yellow?style=for-the-badge&logo=creative-commons&logoColor=black" alt="License" />
   <img src="https://img.shields.io/badge/Platform-Modrinth%20Only-00af5c?style=for-the-badge&logo=modrinth&logoColor=white" alt="Platform" />
   <img src="https://img.shields.io/badge/OptiFine-Parity-00bfa5?style=for-the-badge" alt="OptiFine Parity" />
   <img src="https://img.shields.io/badge/Config-Fast%20%26%20Tweaked-red?style=for-the-badge" alt="Style" />
